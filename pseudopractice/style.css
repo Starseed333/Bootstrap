@@ -1,0 +1,28 @@
+body {
+
+	background-color: pink;
+
+}
+
+
+p:hover 	{
+
+	background-color: black;
+}
+
+
+p:active {
+
+	background-color: red;
+
+}
+
+p:focus {
+
+	background-color: blue;
+}
+
+
+p:visited {
+	background-color: red;
+}
